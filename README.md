@@ -1,23 +1,41 @@
 # JavaScript String Laboratory 🧪
 
-![JS](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
-![Platform](https://img.shields.io/badge/Environment-Kali_Linux-blue?style=flat-square&logo=kali-linux)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![Status](https://img.shields.io/badge/Status-Learning-informational)
+![Focus](https://img.shields.io/badge/Focus-Strings-blue)
+![Approach](https://img.shields.io/badge/Approach-Deliberate_Practice-critical)
 
-&gt; **Note:** This repo is a **learning log**, not a showcase. Execution &gt; Perfection.
+A focused practice repository for mastering **JavaScript String operations**.  
+Each module isolates one concept to keep learning deliberate, traceable, and incremental.
 
----
+This repository is a **learning log**, not a showcase.
 
-## 📂 Structure
+## 📂 Modules
 
-```bash
-.
-├── 01_Concatenation/
-├── 02_Length/
-├── 03_CharacterAccess/
-├── 04_CaseConversion/
-├── 05_SubstringExtraction/
-├── 06_Searching/
-├── 07_Replacing/
-├── 08_Splitting/
-├── 09_Trimming/
-└── 10_TypeConversion/
+Each folder represents one string concept:
+
+1. Concatenation — `+`, Template Literals  
+2. Length — `.length`  
+3. Character Access — index-based  
+4. Case Conversion — `.toUpperCase()`, `.toLowerCase()`  
+5. Substrings — `.slice()`, `.substring()`, `.substr()`  
+6. Search — `.indexOf()`, `.includes()`  
+7. Replace — `.replace()`  
+8. Split — `.split()`  
+9. Trim — `.trim()`  
+10. Type Conversion — `.toString()`
+
+## Run
+
+Each module contains an `index.html`.
+
+Open directly in a browser.  
+Inspect output via **DevTools Console (F12)**.
+
+No frameworks. No tooling. Pure JavaScript.
+
+## Notes
+
+- Minimal or empty files = concepts still in progress  
+- Code reflects **current understanding**, not final form  
+- Progress is intentional and increme
